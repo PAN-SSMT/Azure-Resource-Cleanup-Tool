@@ -2,7 +2,6 @@
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
 ![Bash](https://img.shields.io/badge/Bash-Script-green?logo=gnubash)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20WSL-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
